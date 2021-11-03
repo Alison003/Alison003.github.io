@@ -13,7 +13,7 @@ Course: Data Structures 2
 - This code takes a file as input and creates a Huffman Tree based on the frequency of each character found in the file
 - Uses binary tree and tree searching concepts
 
-![Example Output of the Huffman Tree Code]<img src = "docs/Huffman Output.PNG"/>
+![Example Output of the Huffman Tree Code](/docs/Huffman Output.PNG)
 
 #### [Evaluating Postfix Operations](https://github.com/csc2431-spring2020/postfix-eval-Alison003) (May 2020)
 Course: Data Structures 2
