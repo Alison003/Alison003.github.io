@@ -2,7 +2,7 @@
 ### Projects
 #### [Quote Manager Application GUI](https://github.com/Alison003/Alison003.github.io/blob/051ad343e4fb87761be62feea9ed10495e5e9f98/docs/UI%20with%20navigation.bmpr) (Spring 2021)
 Course: Applications Programming 
-- Used Balsamiq wireframes to design a mobile application 
+- Used Balsamiq wireframes to design a mobile application (Team Project)
 - This is a quote manager mobile application to store and categorize quotes from the user
 
 ![Example Page in the Mobile Application Design](/docs/Quote Manager.PNG)
