@@ -5,7 +5,7 @@ Course: Applications Programming
 - Used Balsamiq wireframes to design a mobile application 
 - This is a quote manager mobile application to store and categorize quotes from the user
 
-![Example Page in the Mobile Application Design](/docs/Quote Manager.PNG)
+![Example Page in the Mobile Application Design](https://github.com/Alison003/Alison003.github.io/blob/1e7eeb1be80cc1a730ced63e4984bd3a74e403d8/docs/Quote%20Manager.PNG)
 
 #### [Encoding Text Files using Huffman Trees](https://github.com/csc2431-spring2020/huffman-Alison003) (June 2020)
 Course: Data Structures 2
