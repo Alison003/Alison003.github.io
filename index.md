@@ -7,7 +7,7 @@ Course: Algorithm Design
 - From this project I learned how to use third party libraries and how to use the DOT language to create flowcharts
 - From this team project I learned how to collaborate on a coding project as well as how to compile ideas to create the optimum output
 
-![Example Course Flow](https://github.com/Alison003/Alison003.github.io/blob/cf4d4e2fbbb8e46460cfab6eb95fce21652eb92a/docs/Course%20Flow.PNG)
+![Example Course Flow](/docs/Course Flow.PNG)
 
 #### [Quote Manager Application GUI](https://github.com/Alison003/Alison003.github.io/blob/051ad343e4fb87761be62feea9ed10495e5e9f98/docs/UI%20with%20navigation.bmpr) (Spring 2021)
 Course: Applications Programming 
