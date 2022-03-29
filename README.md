@@ -1,13 +1,13 @@
 ## Portfolio
 ### Projects
-#### [Course Flow Program](https://github.com/Alison003/Alison003.github.io/blob/cf4d4e2fbbb8e46460cfab6eb95fce21652eb92a/docs/Course%20Flow.PNG) (Winter 2022)
+#### [Course Flow Program](https://github.com/csc3430-winter2022/flowchart-alison-logan) (Winter 2022)
 Course: Algorithm Design
 - Used C++ to create a program that would provide the best order to take a set of classes (Team Project)
 - This program would take a list of courses required to complete a major as well as a maximum credit amount and a starting quarter to create the best course flow
 - From this project I learned how to use third party libraries and how to use the DOT language to create flowcharts
 - From this team project I learned how to collaborate on a coding project as well as how to compile ideas to create the optimum output
 
-![Example Page in the Mobile Application Design](https://github.com/Alison003/Alison003.github.io/blob/1e7eeb1be80cc1a730ced63e4984bd3a74e403d8/docs/Quote%20Manager.PNG)
+![Example Course Flow](https://github.com/Alison003/Alison003.github.io/blob/cf4d4e2fbbb8e46460cfab6eb95fce21652eb92a/docs/Course%20Flow.PNG)
 
 #### [Quote Manager Application GUI](https://github.com/Alison003/Alison003.github.io/blob/051ad343e4fb87761be62feea9ed10495e5e9f98/docs/UI%20with%20navigation.bmpr) (Spring 2021)
 Course: Applications Programming 
