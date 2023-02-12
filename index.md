@@ -8,7 +8,7 @@ Courses: Software Engineering 1-3
 - From this project I learned how to use React and how to design a large-scale website that can support many users
 - From this team project I learned how to work with a team over a long time period and how to stay on a set work schedule 
 
-![Mix Demo Video](https://youtu.be/_3sNVnjsKYc)
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=_3sNVnjsKYc" frameborder="0" allowfullscreen></iframe>
 
 #### [SQL Program](/docs/Alison Langer - CSC4410_Final_Project_mysqlsh.sql) (Fall 2022)
 Course: Database Management
@@ -21,7 +21,7 @@ Course: Database Management
 - Experience using Azure Cognitive Services, Azure Cognitive Search, and Microsoft Bot Framework
 - Validates understanding of the components that make up the Azure AI portfolio
 
-![Certification Badge](/docs/Azure AI Engineer Certification.pdf)
+![Certification Badge](https://github.com/Alison003/Alison003.github.io/blob/main/docs/Azure%20AI%20Engineer%20Certification.pdf)
 
 #### [Threads Program](/docs/Langer_main.c) (Spring 2022)
 Course: Operating Systems
