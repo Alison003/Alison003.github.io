@@ -22,7 +22,7 @@ Course: Database Management
 - Experience using Azure Cognitive Services, Azure Cognitive Search, and Microsoft Bot Framework
 - Validates understanding of the components that make up the Azure AI portfolio
 
-![Certification Badge](https://github.com/Alison003/Alison003.github.io/blob/main/docs/Azure%20AI%20Engineer%20Certification.pdf)
+![Certification Badge](/docs/Azure AI Engineer Certification.pdf)
 
 #### [Threads Program](/docs/Langer_main.c) (Spring 2022)
 Course: Operating Systems
