@@ -8,7 +8,7 @@ Courses: Software Engineering 1-3
 - From this project I learned how to use React and how to design a large-scale website that can support many users
 - From this team project I learned how to work with a team over a long time period and how to stay on a set work schedule 
 
-![Mix Demo Video]({https://www.youtube.com/watch?v=_3sNVnjsKYc} "Mix Demo Video")
+[Mix Demo Video](https://www.youtube.com/watch?v=_3sNVnjsKYc)
 
 
 #### [SQL Program](/docs/Alison Langer - CSC4410_Final_Project_mysqlsh.sql) (Fall 2022)
