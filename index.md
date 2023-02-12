@@ -1,11 +1,33 @@
 # Portfolio
 ## Projects
 
-#### Threads Program (Spring 2022)
+#### [Mix Senior Project](https://github.com/Mix-Senior-Project) (Fall 2022 - Spring 2023)
+Courses: Software Engineering 1-3
+- Used React, Javascript HTML and Amazon Cloud Services to create a unique fully functioning software product (Team Project)
+- This will be a new social media platform that allows people to connect through groups by common interests 
+- From this project I learned how to use React and how to design a large-scale website that can support many users
+- From this team project I learned how to work with a team over a long time period and how to stay on a set work schedule 
+
+![Mix Demo Video](https://youtu.be/_3sNVnjsKYc)
+
+#### [SQL Program](/docs/Alison Langer - CSC4410_Final_Project_mysqlsh.sql) (Fall 2022)
+Course: Database Management
+- Used SQL to write a program that used the Sakila database to gather specified information
+- This program output data based on the specified questions using SQL commands to gather and format data from the database
+- From this project I learned how to use SQL commands to manipulate data in a database
+
+#### Microsoft Certified: Azure AI Engineer Associate (Summer 2022)
+- Validates the skills and knowledge required to build, manage, and deploy AI solutions 
+- Experience using Azure Cognitive Services, Azure Cognitive Search, and Microsoft Bot Framework
+- Validates understanding of the components that make up the Azure AI portfolio
+
+![Certification Badge](/docs/Azure AI Engineer Certification.pdf)
+
+#### [Threads Program](/docs/Langer_main.c) (Spring 2022)
 Course: Operating Systems
 - Used C to write a program that compared the amount of time it took to run three concurrent thread processes
 - This program would generate a million random numbers to a data file and then each thread copied the numbers and calculated the average
-- The program would calculate   the elapsed amount of time it took each thread to complete
+- The program would calculate the elapsed amount of time it took each thread to complete
 - From this project I learned how to use C to control operating system functions and how threads work
 
 ![Example Thread Running](/docs/threads.PNG)
