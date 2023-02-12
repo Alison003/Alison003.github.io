@@ -1,5 +1,22 @@
-## Portfolio
-### Projects
+# Portfolio
+## Projects
+
+#### Threads Program (Spring 2022)
+Course: Operating Systems
+- Used C to write a program that compared the amount of time it took to run three concurrent thread processes
+- This program would generate a million random numbers to a data file and then each thread copied the numbers and calculated the average
+- The program would calculate   the elapsed amount of time it took each thread to complete
+- From this project I learned how to use C to control operating system functions and how threads work
+
+![Example Thread Running](/docs/threads.PNG)
+
+#### [My List](https://github.com/DennisVickers/Spr22_3221_T4/blob/main/Project-2/app.js) (Spring 2022)
+Course: Netcentric Computing
+- Used Node.js to create a website that would act as a digital to-do list (Team Project)
+- This program would use basic HTTP functions and API requests to write user input to a database that would appear on the list
+- From this project I learned how to create websites and how to use HTTP requests
+- From this team project I learned how to learn new techniques quickly and how to brainstorm ideas with a team
+
 #### [Course Flow Program](https://github.com/csc3430-winter2022/flowchart-alison-logan) (Winter 2022)
 Course: Algorithm Design
 - Used C++ to create a program that would provide the best order to take a set of classes (Team Project)
