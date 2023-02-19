@@ -3,9 +3,9 @@ logo: /docs/professional headshot.jpg
 description: > 
   <font size = 4>I am a Senior Computer Science student at Seattle Pacific University and expecting my B.S. in Spring 2023.</font>
   <br>
-  This portfolio showcases a few project I have worked on throughout my undergraduate career.
+  <font size = 3>This portfolio showcases a few project I have worked on throughout my undergraduate career.</font>
   <br><br>
-  Contact Information:
+  <font size = 3>Contact Information:
   <br>
   langera@spu.edu
   <br>
@@ -13,6 +13,6 @@ description: >
   <br>
   <a href="https://github.com/Alison003/Alison003.github.io/blob/main/docs/Alison_Langer_Resume.pdf">View My Resume</a>
   <br>
-  <a href="https://www.linkedin.com/in/alison-langer-802b3a220/">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/alison-langer-802b3a220/">View My LinkedIn Profile</a></font>
   
 theme: jekyll-theme-minimal
