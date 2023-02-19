@@ -2,12 +2,10 @@
 
 ## [Mix Senior Project](https://github.com/Mix-Senior-Project) (Fall 2022 - Spring 2023)
 ### Courses: Software Engineering 1-3
-<font size = 3>
-- Used React, Javascript HTML and Amazon Cloud Services to create a unique fully functioning software product (Team Project)
+#### - Used React, Javascript HTML and Amazon Cloud Services to create a unique fully functioning software product (Team Project)
 - This will be a new social media platform that allows people to connect through groups by common interests 
 - From this project I learned how to use React and how to design a large-scale website that can support many users
 - From this team project I learned how to work with a team over a long time period and how to stay on a set work schedule 
-</font>
 
 [Mix Demo Video](https://www.youtube.com/watch?v=_3sNVnjsKYc)
 
